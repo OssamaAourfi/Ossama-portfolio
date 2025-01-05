@@ -16,16 +16,15 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p className="p1">
-              I'm an experiend Full Stack Developer with over a decade of
-              professionel expertise in the field. Throughout my career, I have
-              had the privilege of collaborating with prestigious
-              organisations,contributing to their success and growth
+              I am a Full Stack Developer with over 10 years of experience,
+              passionate about building innovative solutions and contributing to
+              organizational success.
             </p>
-            <p className="p2">
+            {/* <p className="p2">
               My passion for FullStack Developer is not only reflected in my
               extensive experience but also in the euthusiam and dedication I
               bring to each project
-            </p>
+            </p> */}
           </div>
           <div className="about-skills">
             <div className="about-skill">

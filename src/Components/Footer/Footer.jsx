@@ -6,8 +6,8 @@ const Footer = () => {
   return (
       <div id='footer' className='footer'>
           <div className="footer-top">
-              <div className="footer-top-left">
-                  <img src={footer_logo} alt='' />
+              {/* <div className="footer-top-left">
+                   <img src={footer_logo} alt='' /> 
                   <p>I am Full Stack Developer from Morroco with 5 years experience</p>
               </div>
               <div className="footer-top-right">
@@ -16,7 +16,7 @@ const Footer = () => {
                       <input type='email' placeholder='Enter your email'/>
                   </div>
                   <div className="footer-subscribe">subscribe</div>
-              </div>
+              </div> */}
           </div>
           <hr />
           <div className="footer-bottom">

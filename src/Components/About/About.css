@@ -52,9 +52,9 @@ gap: 80px;
     transition: 0.3s;
 }
 .about-left img{
-    margin-top: 100px;
-    width: 300px;
-    height: 70%;
+    margin-top: 10px;
+    width: 400px;
+    height: 90%;
 }
 .about-skill p{
     min-width: 150px;
